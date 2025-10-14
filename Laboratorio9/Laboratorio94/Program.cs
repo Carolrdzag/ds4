@@ -15,7 +15,7 @@ namespace Laboratorio94
             Console.WriteLine($"Número aleatorio entre 5 y 20: {numero}");
 
             // Prueba del método para generar un arreglo de números aleatorios
-            int[] arreglo = aleatorios.GenerarArregloEntre(1, 100, 4);
+            int[] arreglo = aleatorios.GenerarArregloEntre(1, 100, 16);
             Console.WriteLine("Arreglo aleatorio:");
 
             for (int i = 0; i < arreglo.Length; i++)

@@ -8,7 +8,7 @@ class Program
 
         Aleatorios aleatorios = new Aleatorios();
 
-        int[] sinRepetidos = aleatorios.ArregloSinRepetidos(10, 50, 5);
+        int[] sinRepetidos = aleatorios.ArregloSinRepetidos(1, 100, 16);
         Console.WriteLine("Arreglo sin números repetidos:");
         for (int i = 0; i < sinRepetidos.Length; i++)
         {

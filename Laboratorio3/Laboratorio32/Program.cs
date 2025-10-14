@@ -1,5 +1,4 @@
-﻿// Removed: using Laboratorio31;
-
+﻿
 class Program
 {
     static void Main(string[] args)
@@ -9,6 +8,7 @@ class Program
 
         double area = CalculosMatematicos.CalculoArea(radio);
 
-        Console.WriteLine("El área del círculo con radio {0} es: {1:F2}", radio, area);
+        Console.WriteLine("El área del círculo con radio {0} es: {1:F2}", radio, area);  // {1:F2} se reemplaza por el valor de area con 2 decimales.
+
     }
 }

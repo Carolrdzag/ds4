@@ -1,10 +1,10 @@
 ﻿using System;
 // Clase CalculosMatematicos.cs
-    public class CalculosMatematicos
+    public class CalculosMatematicos    // Creación de la clase
     {
-        public static int Calcular(int a, int b)
+        public static int Calcular(int a, int b)    // Metodo Calcular que retorna un valor y Static para usarlo sin tener que crear un objeto.
         {
-            return (a + b) * (a - b);
+            return (a + b) * (a - b);   // Instrucción
         }
 
         // Nuevo método para calcular el área de un círculo
@@ -32,9 +32,9 @@ class Program
         Console.Write("Ingrese el segundo número: ");
         int b = Convert.ToInt32(Console.ReadLine());
 
-        int resultado = CalculosMatematicos.Calcular(a, b);
+        int resultado = CalculosMatematicos.Calcular(a, b);  // "CalculosMatematicos.Calcular(a, b)" es la clase donde esta el metodo.se llama al metodo(son los valores que se le pasan al metodo).
 
-        Console.WriteLine("El resultado de ({0} + {1}) * ({0} - {1}) es: {2}", a, b, resultado);
+        Console.WriteLine("El resultado de ({0} + {1}) * ({0} - {1}) es: {2}", a, b, resultado);  // Diferencia de cuadrados
 
     }
 }

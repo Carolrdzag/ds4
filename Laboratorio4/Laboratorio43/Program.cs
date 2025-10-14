@@ -7,8 +7,8 @@
 
         if (score >= 70)
         {
-            Console.WriteLine();
-            Console.WriteLine($"Su nota es {score} ha aprobado");
+            Console.WriteLine();        // Salto de linea
+            Console.WriteLine($"Su nota es {score} ha aprobado");  // La interpolación permite incluir variables dentro de una cadena sin necesidad de concatenar con + Se usa el símbolo  antes de la cadena y se colocan las variables entre llaves {}.
         }
         else
         {
