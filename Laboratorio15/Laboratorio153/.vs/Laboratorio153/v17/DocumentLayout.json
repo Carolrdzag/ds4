@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370C2584-5271-4D4D-8A6F-E15324AD09A1}|Laboratorio154\\Laboratorio154.csproj|c:\\users\\me\\source\\repos\\ds4\\laboratorio153\\laboratorio154\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370C2584-5271-4D4D-8A6F-E15324AD09A1}|Laboratorio154\\Laboratorio154.csproj|solutionrelative:laboratorio154\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F20860-3FD7-4CFB-982C-4680136EF8A4}|Laboratorio153\\Laboratorio153.csproj|c:\\users\\me\\source\\repos\\ds4\\laboratorio153\\laboratorio153\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{56F20860-3FD7-4CFB-982C-4680136EF8A4}|Laboratorio153\\Laboratorio153.csproj|solutionrelative:laboratorio153\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F20860-3FD7-4CFB-982C-4680136EF8A4}|Laboratorio153\\Laboratorio153.csproj|c:\\users\\me\\source\\repos\\ds4\\laboratorio153\\laboratorio153\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F20860-3FD7-4CFB-982C-4680136EF8A4}|Laboratorio153\\Laboratorio153.csproj|solutionrelative:laboratorio153\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370C2584-5271-4D4D-8A6F-E15324AD09A1}|Laboratorio154\\Laboratorio154.csproj|c:\\users\\me\\source\\repos\\ds4\\laboratorio153\\laboratorio154\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{370C2584-5271-4D4D-8A6F-E15324AD09A1}|Laboratorio154\\Laboratorio154.csproj|solutionrelative:laboratorio154\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\Laboratorio154\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Laboratorio154\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\Laboratorio154\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Laboratorio154\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:35:48.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\Laboratorio154\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Laboratorio154\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\Laboratorio154\\WebForm1.aspx",
+              "RelativeToolTip": "Laboratorio154\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-11T02:21:25.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\Laboratorio153\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Laboratorio153\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\Laboratorio153\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Laboratorio153\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:46:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\Laboratorio153\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Laboratorio153\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\ds4\\Laboratorio153\\Laboratorio153\\WebForm1.aspx",
+              "RelativeToolTip": "Laboratorio153\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-11T01:26:57.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
