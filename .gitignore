@@ -2,32 +2,24 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
+/.vs/ds4/v17
 /Laboratorio 1/.vs
+/Laboratorio 1/Laboratorio 1/.vs
+/Laboratorio 1/Laboratorio 1/Laboratorio 1
 /Laboratorio 1/Laboratorio 1
-/Laboratorio2/.vs/Laboratorio2
-/Laboratorio3/.vs/Laboratorio3
-/Laboratorio2/.vs/ProjectEvaluation
-/Laboratorio3/.vs/ProjectEvaluation
-/Laboratorio4/.vs/Laboratorio4
-/Laboratorio4/.vs/ProjectEvaluation
-/Laboratorio5/.vs/Laboratorio5
-/Laboratorio5/.vs/ProjectEvaluation
-/Laboratorio6/.vs/Laboratorio6
-/Laboratorio6/.vs/ProjectEvaluation
-/Laboratorio7/.vs/Laboratorio7
-/Laboratorio7/.vs/ProjectEvaluation
-/Laboratorio8/.vs/Laboratorio8
 /Laboratorio10/.vs/Laboratorio10
-/Laboratorio9/.vs
 /Laboratorio11/.vs/Laboratorio11
-/Laboratorio11/Laboratorio11/bin/Debug/net8.0/Laboratorio11.deps.json
-/Parcial1_CarolinaR
-/Parcial#1.zip
 /Laboratorio12/.vs/Laboratorio12
 /Laboratorio13/.vs/Laboratorio13
 /Laboratorio14/.vs/Laboratorio14
-/Laboratorio16/.vs/Laboratorio16
-/Laboratorio15.zip
-/Parcial22/Parcial22.sln
-/Parcial22/Parcial22
+/Laboratorio16
+/Laboratorio5/.vs/ProjectEvaluation
+/Laboratorio6/.vs
+/Laboratorio7/.vs
+/Laboratorio8/.vs/Laboratorio8
+/Laboratorio9/.vs
+/Laboratorio5/.vs/Laboratorio5
+/Laboratorio4/.vs
+/Laboratorio3/.vs
+/Laboratorio2/.vs
+/README.md
